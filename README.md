@@ -10,3 +10,12 @@
 > 3. 웹에서 보여주기 위한 간단한 웹 구축
 
 
+
+## 참고
+https://docs.upbit.com/docs
+
+https://docs.upbit.com/reference
+
+
+
+
